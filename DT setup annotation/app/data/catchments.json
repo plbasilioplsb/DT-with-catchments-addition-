@@ -1,0 +1,18 @@
+[
+  {
+    "catchment_id": "perth_cbd_c1",
+    "A_km2": 1.40,
+    "C": 0.85,
+    "Qcap_m3s": 3.2,
+    "k": 8.0
+  },
+  {
+    "catchment_id": "perth_cbd_c2",
+    "A_km2": 2.10,
+    "C": 0.80,
+    "Qcap_m3s": 4.5,
+    "k": 8.0
+  }
+]
+
+
